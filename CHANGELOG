@@ -1,0 +1,39 @@
+The following changes were made to the original games / intros:
+
+
+Sex Games III:
+ - starts at $1c01 and not $4001 make it possible to load it both with
+   DLOAD"" (LOAD"*",8) and BLOAD"" (LOAD"*",8,1)
+
+
+Race:
+  - Intro: fixed race condition with timer. Works as expected
+  - Sets bank (JSR $FF68) before calling LOAD (JSR $FFD5)
+
+
+Teenage Mutant Runner Turtle:
+  - Sets bank (JSR $FF68) before calling LOAD (JSR $FFD5)
+
+
+Puncher:
+  - Autoloader ends at $0301 and not $0302 causing a crash
+  - Sets bank (JSR $FF68) before calling LOAD (JSR $FFD5)
+  - Right Player (file "AAAC") calls `JSR $25EF` instead of `JSR $21EF` to
+  make the player self-contained.
+
+
+Chardef:
+  - (unmodified)
+
+
+The Race:
+  - (unmodified)
+
+
+Intros C64:
+  - Most of them were exomized to make them easier to run. Some intros were
+  loaded at address $0800 making them very difficult to run.
+
+
+Intros C128:
+  - (unmodified) Require manual sys to run.
