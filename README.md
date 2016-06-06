@@ -9,7 +9,7 @@ A selection of my Commodore games & intros from '88 to '92 (for NTSC, although t
 ![](https://lh3.googleusercontent.com/-Ot1Giq0qi34/V0kZcIHSIMI/AAAAAAABeFs/jn9cSQYamUQdPhC_Z-fQ_SLlWT_EmyrcwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.05.03%2BAM.png)
 ![](https://lh3.googleusercontent.com/-ZKr-wZtO0uA/V0kZcFQLLzI/AAAAAAABeFo/qwBtW0tEh_oOg4WHfSgCHnrO7iMTZdDvgCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.06.14%2BAM.png)
 
-* Download: [sexgames3.d71](disks/sexgames3.d71)
+* Download: [sexgames3.d71](../../raw/master/disks/sexgames3.d71)
 * Year: 1989
 * About: An unfinished single-player game about having sex
 * Credits: self
@@ -24,7 +24,7 @@ A selection of my Commodore games & intros from '88 to '92 (for NTSC, although t
 ![](https://lh3.googleusercontent.com/-zm2sCXWTkhY/V0kar3dAGVI/AAAAAAABeGE/0bTI-pWgHYoZrvGW6F100lM7Z9ofaYv-wCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.10.49%2BAM.png)
 ![](https://lh3.googleusercontent.com/-NnTJzJPwPY0/V0karhaFMyI/AAAAAAABeGA/G-u2MmwtWE46u5BKDb80Q3CKzGTyduKEQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.11.54%2BAM.png)
 
-* Download: [race.d71](disks/race.d71)
+* Download: [race.d71](../../raw/master/disks/race.d71)
 * Year: 1990
 * About: Simple "racing" single-player game
 * Credits: self
@@ -39,7 +39,7 @@ A selection of my Commodore games & intros from '88 to '92 (for NTSC, although t
 ![](https://lh3.googleusercontent.com/-YF2-LGLll-I/V0kcpHq30qI/AAAAAAABeGU/9lEwqD5kQJIaavHzjgsf75nxFwjQhRYWwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.15.13%2BAM.png)
 ![](https://lh3.googleusercontent.com/-e6VavywLkJU/V0kcpISdRwI/AAAAAAABeGY/xkmZDlpdPkM7p8dcDMp4IONOOoIh8ymHQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.20.06%2BAM.png)
 
-* Download: [tmrt.d71](disks/tmrt.d71)
+* Download: [tmrt.d71](../../raw/master/disks/tmrt.d71)
 * Year: 1991
 * About: A single-player rescue-your-girlfriend game
 * Credits: self, except:
@@ -58,7 +58,7 @@ A selection of my Commodore games & intros from '88 to '92 (for NTSC, although t
 ![](https://lh3.googleusercontent.com/-7OjU8-yQ7o4/V0kdLYY8KJI/AAAAAAABeGk/LUSHD7Efd9of2JufbJUtyzAProGrhItwgCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.22.40%2BAM.png)
 ![](https://lh3.googleusercontent.com/-Xuc6NxhlnL8/V0kdLZs1ufI/AAAAAAABeGc/_QPERAAoBsUr3j_F1fSp_lssdoVi-Jv2QCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.22.46%2BAM.png)
 
-* Download: [puncher.d71](disks/puncher.d71)
+* Download: [puncher.d71](../../raw/master/disks/puncher.d71)
 * Year: 1992
 * Credits: self
 * Instructions:
@@ -118,7 +118,7 @@ A selection of my Commodore games & intros from '88 to '92 (for NTSC, although t
 ![](https://lh3.googleusercontent.com/-LiSX52KJ-Ig/V0kegkZtp2I/AAAAAAABeGw/Fn9QU0VXlxwqav8afiqe50eet1FC1wECACCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.27.53%2BAM.png)
 ![](https://lh3.googleusercontent.com/-R1Xm6o4I5Wc/V0kegsPeFkI/AAAAAAABeG0/OqpzwENEsWEKf-Sr3MoUAx5mKtTLi5WUQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.28.15%2BAM.png)
 
-* Download: [chardef_232.d71](disks/chardef_232.d71)
+* Download: [chardef_232.d71](../../raw/master/disks/chardef_232.d71)
 * Year: 1992
 * About: A character editor, the grand-daddy of [VChar64](https://github.com/ricardoquesada/vchar64)
 * Credits: self
@@ -142,7 +142,7 @@ A selection of my Commodore games & intros from '88 to '92 (for NTSC, although t
 ![](https://lh3.googleusercontent.com/-2yn1FPlbTIw/V0kfaEcw3rI/AAAAAAABeHA/qVQ1QRF42Fo7rjoQ6h4N0wctzOBO0JTQQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.31.19%2BAM.png)
 ![](https://lh3.googleusercontent.com/-UKQUiz7j5as/V0kfZ57r3iI/AAAAAAABeHI/yMPZuELXOaIZnAeS40NP0aqmSayQ25KcwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.31.33%2BAM.png)
 
-* Download: [therace.d71](disks/therace.d71)
+* Download: [therace.d71](../../raw/master/disks/therace.d71)
 * Year: 1992
 * About: A two-player split-screen horizontal racing game
 * Credits: self
@@ -165,13 +165,13 @@ I also coded some intros. The better looking ones are these two intros:
 
 ![Intro 10](https://lh3.googleusercontent.com/-fOIeZv2pj1E/V1MP5ZrMuTI/AAAAAAABeRg/LYkVmkKovtAkBOX8mLfMLjN_ADiNcyicgCCo/s400/Screen%2BShot%2B2016-06-04%2Bat%2B2.25.07%2BPM.png)
 
-* Download: [intro 10 NTSC ONLY.d64](disks/intro_10_NTSC_ONLY.d64)
+* Download: [intro 10 NTSC ONLY.d64](../../raw/master/disks/intro_10_NTSC_ONLY.d64)
 
 ## Intro 15
 
 ![Intro 15](https://lh3.googleusercontent.com/-0oABlr-9GGE/V1MVJhnY3XI/AAAAAAABeRo/Cd10LKLaRRgmdqmHyXiOpHI3iWvE0JPoQCCo/s400/Screen%2BShot%2B2016-06-04%2Bat%2B2.51.00%2BPM.png)
 
-* Download: Included in [The Race.71](disks/therace.d71)
+* Download: Included in [The Race.71](../../raw/master/disks/therace.d71)
 
 # Trainers
 
@@ -204,9 +204,9 @@ Here is the complete collection of my games and intros from 88' to 92':
 DISCLAIMER: Some games / intros might require special commands in order to run correctly. Don't expect anything special.
 
 
-* My Commodore 64 games: [complete_rq_games_c64.d64](disks/complete_rq_games_c64.d64)
-* My Commodore 128 games: [complete_rq_games_c128.d64](disks/complete_rq_games_c128.d64)
+* My Commodore 64 games: [complete_rq_games_c64.d64](../../raw/master/disks/complete_rq_games_c64.d64)
+* My Commodore 128 games: [complete_rq_games_c128.d64](../../raw/master/disks/complete_rq_games_c128.d64)
 * My Commodore 64 intros:
-[complete_rq_intros_c64.d64](disks/complete_rq_intros_c64.d64)
+[complete_rq_intros_c64.d64](../../raw/master/disks/complete_rq_intros_c64.d64)
 * My Commodore 128 intros
-[complete_rq_intros_c128.d64](disks/complete_rq_intros_c128.d71)
+[complete_rq_intros_c128.d64](../../raw/master/disks/complete_rq_intros_c128.d71)
