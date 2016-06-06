@@ -1,8 +1,9 @@
-# "Erasoft" & "RQ progs" games and intros
+# "Erasoft" & "RQ progs" games, intros, etc.
 
-A selection of my Commodore games & intros from '88 to '92 (for NTSC, although they might work on PAL as well)
+A selection of my Commodore games, intros, trainers and recracks from '88 to '92 (for NTSC, although they might work on PAL as well)
 
 
+# Games
 ## Sex Games III
 
 ![](https://lh3.googleusercontent.com/-5kxKenFTm20/V0kZcaR5XYI/AAAAAAABeFw/Ct1tW4NA43kVjbl2BGFR04qGaaXyw2SOwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.05.37%2BAM.png)
@@ -184,6 +185,11 @@ I did some trainers as well, like:
 * [Hard Hat Mack+](../../raw/master/disks/hardhatmack_era.d64)
 * [Hunchback+](../../raw/master/disks/hunchback_era.d64)
 
+# Recracks
+
+I also did some recracks. By that I mean: From a game, replace the intro done by someone else with another one done by myself.
+
+COMING SOON
 
 # Trivia
 
