@@ -177,7 +177,7 @@ I also coded some intros. The better looking ones are these two intros:
 
 I did some trainers as well, like:
 
-![Giana Sisters](https://lh3.googleusercontent.com/-d7nq1yxJPWQ/V1S56Kd2VMI/AAAAAAABeTo/9ellRyRAonYC5zNt2SSajJ32eAZ9cTJ6ACCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.44.25%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-BFjtHYstV6Y/V1S56SMVtsI/AAAAAAABeTs/D5xsm3UmCJY4M2ggb28QP3U9LTSRSRvkwCCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.45.11%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-F1dYgyyRNpc/V1S56aJXNuI/AAAAAAABeTw/NytMxyZ-WpkV-w-f67chbj29YsTo4M5JQCCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.45.53%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-TzXjhWgVKrY/V1S56qzHNuI/AAAAAAABeT4/Ol7zLyQ1g6s1cJAmQlOzJgo-KoitsOgvgCCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.46.18%2BPM.png)
+![Giana Sisters](https://lh3.googleusercontent.com/-d7nq1yxJPWQ/V1S56Kd2VMI/AAAAAAABeTo/9ellRyRAonYC5zNt2SSajJ32eAZ9cTJ6ACCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.44.25%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-BFjtHYstV6Y/V1S56SMVtsI/AAAAAAABeUM/r0ZTfMi_9PMQuy2PajSzj9NPo1OZRE_tACCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.45.11%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-F1dYgyyRNpc/V1S56aJXNuI/AAAAAAABeTw/NytMxyZ-WpkV-w-f67chbj29YsTo4M5JQCCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.45.53%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-TzXjhWgVKrY/V1S56qzHNuI/AAAAAAABeT4/Ol7zLyQ1g6s1cJAmQlOzJgo-KoitsOgvgCCo/s288/Screen%2BShot%2B2016-06-05%2Bat%2B8.46.18%2BPM.png)
 
 * Giana Sisters+
 * Galaxy+
