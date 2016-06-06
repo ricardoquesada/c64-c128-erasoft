@@ -187,7 +187,7 @@ I did some trainers as well, like:
 
 # Recracks
 
-I also did some recracks. By that I mean that I removed intros done by the original cracker (or another recracker) and replaced them with one that I did.
+I also did some recracks. By that I mean: From a game, replace the intro done by someone else with another one done by myself.
 
 COMING SOON
 
