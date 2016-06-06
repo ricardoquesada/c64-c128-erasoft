@@ -179,10 +179,10 @@ I did some trainers as well, like:
 
 ![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)
 
-* [Giana Sisters+](../raw/master/disks/gianasisters_era.d64)
-* [Galaxy+](../raw/master/disks/galaxy_era.d64)
-* [Hard Hat Mack+](../raw/master/disks/hardhatmack_era.d64)
-* [Hunchback+](../raw/master/disks/hunchback_era.d64)
+* [Giana Sisters+](../../raw/master/disks/gianasisters_era.d64)
+* [Galaxy+](../../raw/master/disks/galaxy_era.d64)
+* [Hard Hat Mack+](../../raw/master/disks/hardhatmack_era.d64)
+* [Hunchback+](../../raw/master/disks/hunchback_era.d64)
 
 
 # Trivia
