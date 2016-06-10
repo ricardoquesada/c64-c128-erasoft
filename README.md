@@ -218,4 +218,4 @@ DISCLAIMER: Some games / intros might require special commands in order to run c
 * My Commodore 64 intros:
 [complete_rq_intros_c64.d64](../../raw/master/disks/complete_rq_intros_c64.d64)
 * My Commodore 128 intros
-[complete_rq_intros_c128.d64](../../raw/master/disks/complete_rq_intros_c128.d71)
+[complete_rq_intros_c128.d71](../../raw/master/disks/complete_rq_intros_c128.d71)
