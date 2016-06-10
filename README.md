@@ -2,6 +2,7 @@
 
 A selection of my Commodore games, intros, trainers and recracks from '88 to '92 (for NTSC, although they might work on PAL as well)
 
+_(The story behind the preservation of these games: https://retro.moe/2016/06/06/the-quest-for-the-sacred-diskettes/ )_
 
 # Games
 ## Sex Games III
