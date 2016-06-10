@@ -1,9 +1,7 @@
 The following changes were made to the original games / intros:
 
-
-Sex Games III:
- - starts at $1c01 and not $4001 make it possible to load it both with
-   DLOAD"" (LOAD"*",8) and BLOAD"" (LOAD"*",8,1)
+All c128 BASIC games:
+ - Start at $1c01 instead of $4001. They work with BLOAD and LOAD"",8,1 as well
 
 
 Race:
@@ -22,12 +20,13 @@ Puncher:
   make the player self-contained.
 
 
-Chardef:
-  - (unmodified)
+Roketo:
+  - Works with LOAD and DLOAD. Does not use varibles stored in $1102 by BLOAD
 
 
-The Race:
-  - (unmodified)
+El Cruce:
+  - Works with LOAD + DLOAD. Does not rely on filename i $1102 stored by BLOAD
+  - Starts at $1c01 instead of $1c00
 
 
 Intros C64:
@@ -37,3 +36,11 @@ Intros C64:
 
 Intros C128:
   - (unmodified) Require manual sys to run.
+
+
+complete_rq_games_64:
+  - fixed separators
+
+complete_rq_games_128:
+  - fixed separators
+  - includes the fixed verion of the games
