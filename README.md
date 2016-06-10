@@ -98,7 +98,8 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
             * it also disables joystick movment while hitting. cheats!
             * cheating can be detected by game logic while C= key is pressed
         * `$2000 - $217f`: Sprite data
-        * `$2180 - $2183`: Variables used for ???
+        * `$2180, $2181`: Higher punch, lower punch power. Must comply with: `$2180 + $2181 == 255`
+        * `$2182, $2183`: Higher defense, lower defense. Must comply with: `$2182 + $2183 == 255`
         * `$2184 - $2193`: Player name
         * `$2194`: Player logic
         * Uses sprites #0 (head), #1 (body), #2 (legs) and #3 (arm)
@@ -107,7 +108,8 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
     * File "AAAC" (right player logic)
         * Logic code: it just flips the sprites horizontally every N seconds
         * `$2400 - $257f`: Sprite data
-        * `$2580 - $2583`: Variables used for ???
+        * `$2580, $2581`: Higher punch, lower punch power. Must comply with: `$2580 + $2581 == 255`
+        * `$2582, $2583`: Higher defense, lower defense. Must comply with: `$2582 + $2583 == 255`
         * `$2584 - $2593`: Player name
         * `$2594`: Player logic
         * Uses sprites #4 (head), #5 (body), #6 (legs), and #7 (arm)
@@ -126,17 +128,17 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 * Credits: self
 * Instructions:
     * This is a "Terminate-And-Stay-Resident" program. While resident, you can do whatever you want, like saving the charset to disk using `BSAVE`.
-    * F1: Apply changes made in the char editor
+    * F1: Save changes made in the char editor
     * F2: Save Screen RAM to `$3000`
     * F3: Rotate clock-wise
     * F4: Flip Horizontally
     * F5: Invert
     * F6: Clean
-    * F7: Display the selected char in the editor
+    * F7: Load the selected char in the editor
     * F8: Load Screen RAM from `$3000`
     * Joy 2: Up,Down,Left,Right: Scroll the editor data
     * Joy 2: Button + Up, Button + Down: Move the split screen up or down
-    * Joy 1: Up: Display the editor frame
+    * Alt or Joy 1: Up: Display the editor frame
 
 ## The Race
 
@@ -212,7 +214,7 @@ DISCLAIMER: Some games / intros might require special commands in order to run c
 
 
 * My Commodore 64 games: [complete_rq_games_c64.d64](../../raw/master/disks/complete_rq_games_c64.d64)
-* My Commodore 128 games: [complete_rq_games_c128.d64](../../raw/master/disks/complete_rq_games_c128.d64)
+* My Commodore 128 games: [complete_rq_games_c128.d71](../../raw/master/disks/complete_rq_games_c128.d71)
 * My Commodore 64 intros:
 [complete_rq_intros_c64.d64](../../raw/master/disks/complete_rq_intros_c64.d64)
 * My Commodore 128 intros
