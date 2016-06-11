@@ -183,7 +183,7 @@ I also coded some intros. The better looking ones are these two intros:
 
 I did some trainers as well, like:
 
-![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)![Snoopy](https://lh3.googleusercontent.com/--9xseeTKSSM/V1yMXFsB3rI/AAAAAAABeWU/NzpNwgpIV_owSO_5fa9EbstVIb9lgIrQwCCo/s288/Screen%2BShot%2B2016-06-11%2Bat%2B3.08.06%2BPM.png)
+![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)![Snoopy](https://lh3.googleusercontent.com/--9xseeTKSSM/V1yMXFsB3rI/AAAAAAABeWc/BZE246LKe-EHD8txSydNa-OSAtruqwDWQCCo/s144/Screen%2BShot%2B2016-06-11%2Bat%2B3.08.06%2BPM.png)
 
 * [Giana Sisters+.d64](../../raw/master/disks/trainer-gianasisters+ ERA.d64)
 * [Galaxy+.d64](../../raw/master/disks/trainer-galaxy+ ERA.d64)
@@ -209,7 +209,7 @@ I also did some recracks. _Recrack_: that lame activity that consists in replaci
 * [Pro Tennis Tour.d64](../../raw/master/disks/recrack-pro tennis tour ERA.d64)
 * [Sim City.d64](../../raw/master/disks/recrack-simcity ERA.d64)
 * [Soccer Simulator.d64](../../raw/master/disks/recrack-soccer simulator ERA.d64)
-* [Stellar 7.d64](../../raw/master/disks/recrack-stellar7 ERA.d64)
+* [Stellar 7.d64](../../raw/master/disks/recrack-stellar 7 ERA.d64)
 * [Turbo Outrun.d64](../../raw/master/disks/recrack-turbo outrun ERA.d64)
 * [Tusker.d64](../../raw/master/disks/recrack-tusker ERA.d64)
 * [TV Sports Football.zip](../../raw/master/disks/recrack-tv sports football ERA.zip)
