@@ -63,7 +63,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 * Download: [puncher.d71](../../raw/master/disks/puncher.d71)
 * Year: 1992
 * Credits: self
-* Instructions:
+* Instructions ([puncher.pdf](../../raw/master/scans/puncher.pdf)
     * You don't really play in this game.
     * You need to program your boxer using assembly language.
     * Kind of 'Core Wars' but much much much simpler
@@ -97,7 +97,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
             * it just hits the opponent when distances is less than 48 pixels (expanded sprite length)
             * it also disables joystick movment while hitting. cheats!
             * cheating can be detected by game logic while C= key is pressed
-        * `$2000 - $217f`: Sprite data
+        * `$2000 - $217f`: Data for 6 sprites: head, body, legs #1, legs #2, punch hi, punch low
         * `$2180, $2181`: Higher punch, lower punch power. Must comply with: `$2180 + $2181 == 255`
         * `$2182, $2183`: Higher defense, lower defense. Must comply with: `$2182 + $2183 == 255`
         * `$2184 - $2193`: Player name
@@ -107,7 +107,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
         * Player code can jump to `$1403` to handle joystick movement, otherwise to `$14b0`
     * File "AAAC" (right player logic)
         * Logic code: it just flips the sprites horizontally every N seconds
-        * `$2400 - $257f`: Sprite data
+        * `$2400 - $257f`: Data for 6 sprites: head, body, legs #1, legs #2, punch hi, punch low
         * `$2580, $2581`: Higher punch, lower punch power. Must comply with: `$2580 + $2581 == 255`
         * `$2582, $2583`: Higher defense, lower defense. Must comply with: `$2582 + $2583 == 255`
         * `$2584 - $2593`: Player name
@@ -126,7 +126,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 * Year: 1992
 * About: A character editor, the grand-daddy of [VChar64](https://github.com/ricardoquesada/vchar64)
 * Credits: self
-* Instructions:
+* Instructions ([chardef.pdf](../../raw/master/scans/chardef.pdf)
     * This is a "Terminate-And-Stay-Resident" program. While resident, you can do whatever you want, like saving the charset to disk using `BSAVE`.
     * F1: Save changes made in the char editor
     * F2: Save Screen RAM to `$3000`
@@ -138,7 +138,9 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
     * F8: Load Screen RAM from `$3000`
     * Joy 2: Up,Down,Left,Right: Scroll the editor data
     * Joy 2: Button + Up, Button + Down: Move the split screen up or down
-    * Alt or Joy 1: Up: Display the editor frame
+    * Alt or Joy 1 Up: Display the editor frame
+    * Shift + Alt: Reset charset
+    + Shift + C=: switch between charset 1 and charset 2
 
 ## The Race
 
