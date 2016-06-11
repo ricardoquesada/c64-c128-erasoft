@@ -183,18 +183,38 @@ I also coded some intros. The better looking ones are these two intros:
 
 I did some trainers as well, like:
 
-![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)
+![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)![Snoopy](https://lh3.googleusercontent.com/--9xseeTKSSM/V1yMXFsB3rI/AAAAAAABeWU/NzpNwgpIV_owSO_5fa9EbstVIb9lgIrQwCCo/s288/Screen%2BShot%2B2016-06-11%2Bat%2B3.08.06%2BPM.png)
 
-* [Giana Sisters+](../../raw/master/disks/gianasisters_era.d64)
-* [Galaxy+](../../raw/master/disks/galaxy_era.d64)
-* [Hard Hat Mack+](../../raw/master/disks/hardhatmack_era.d64)
-* [Hunchback+](../../raw/master/disks/hunchback_era.d64)
+* [Giana Sisters+.d64](../../raw/master/disks/trainer-gianasisters+ ERA.d64)
+* [Galaxy+.d64](../../raw/master/disks/trainer-galaxy+ ERA.d64)
+* [Hard Hat Mack+.d64](../../raw/master/disks/trainer-hardhatmack+ ERA.d64)
+* [Hunchback+.d64](../../raw/master/disks/trainer-hunchback+ ERA.d64)
+* [Snoopy+.d64](../../raw/master/disks/trainer-snoopy+ ERA.d64)
 
 # Recracks
 
-I also did some recracks. By that I mean: From a game, replace the intro done by someone else with another one done by myself.
+I also did some recracks. _Recrack_: that lame activity that consists in replacing an intro done by someone else with another intro done by yourself.
 
-COMING SOON
+* [Airborne Ranger.zip](../../raw/master/disks/recrack-airborne ranger ERA.zip)
+* [Alien Syndrome.d64](../../raw/master/disks/recrack-alien syndrome ERA.d64)
+* [Boulder Dash 16.d64](../../raw/master/disks/recrack-boulderdash16 ERA.d64)
+* [Celebration Kit.d64](../../raw/master/disks/recrack-celebration kit ERA.d64)
+* [Double Dragon II.d64](../../raw/master/disks/recrack-double dragon II ERA.d64)
+* [Elite.d64](../../raw/master/disks/recrack-elite ERA.d64)
+* [Fourth and Inches.d64](../../raw/master/disks/recrack-fourth and inches ERA.d64)
+* [Jordan vs. Bird.zip](../../raw/master/disks/recrack-jordan vs bird ERA.zip)
+* [Maniac Mansion.zip](../../raw/master/disks/recrack-maniac mansion ERA.zip)
+* [MULE.d64](../../raw/master/disks/recrack-mule ERA.d64)
+* [Ninja.d64](../../raw/master/disks/recrack-ninja ERA.d64)
+* [Pro Tennis Tour.d64](../../raw/master/disks/recrack-pro tennis tour ERA.d64)
+* [Sim City.d64](../../raw/master/disks/recrack-simcity ERA.d64)
+* [Soccer Simulator.d64](../../raw/master/disks/recrack-soccer simulator ERA.d64)
+* [Stellar 7.d64](../../raw/master/disks/recrack-stellar7 ERA.d64)
+* [Turbo Outrun.d64](../../raw/master/disks/recrack-turbo outrun ERA.d64)
+* [Tusker.d64](../../raw/master/disks/recrack-tusker ERA.d64)
+* [TV Sports Football.zip](../../raw/master/disks/recrack-tv sports football ERA.zip)
+* [Wings of Fury.d64](../../raw/master/disks/recrack-wings of fury+4 ERA.d64)
+
 
 # Trivia
 
