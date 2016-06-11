@@ -1,7 +1,8 @@
 The following changes were made to the original games / intros:
 
-All c128 BASIC games:
- - Start at $1c01 instead of $4001. They work with BLOAD and LOAD"",8,1 as well
+c128 BASIC games:
+ - Some of the BASIC games were using $4001 as the starting address.
+   Changed to $1c01. Now it is possible to load them using BLOAD and LOAD"",8,1
 
 
 Race:
@@ -14,7 +15,7 @@ Teenage Mutant Runner Turtle:
 
 
 Puncher:
-  - Autoloader ends at $0301 and not $0302 causing a crash
+  - Autoloader ends at $0301 and not $0302, fixing a possible crash
   - Sets bank (JSR $FF68) before calling LOAD (JSR $FFD5)
   - Right Player (file "AAAC") calls `JSR $25EF` instead of `JSR $21EF` to
   make the player self-contained.
@@ -26,21 +27,19 @@ Roketo:
 
 El Cruce:
   - Works with LOAD + DLOAD. Does not rely on filename i $1102 stored by BLOAD
-  - Starts at $1c01 instead of $1c00
+  - Starts at $1c01 instead of $1c00. Can be loaded with DLOAD and LOAD"",8
 
 
-Intros C64:
-  - Most of them were exomized to make them easier to run. Some intros were
-  loaded at address $0800 making them very difficult to run.
+complete_rq_intros_c64.d64:
+  - Most of them were exomized to make them easier to run since
+    some intros were loaded at address $0800 making them very difficult to run.
 
 
-Intros C128:
-  - (unmodified) Require manual sys to run.
-
-
-complete_rq_games_64:
+complete_rq_games_c64:
   - fixed separators
 
-complete_rq_games_128:
+
+complete_rq_games_c128:
   - fixed separators
   - includes the fixed verion of the games
+  - converted from .d64 to .d71 to facilitate the loading in VICE
