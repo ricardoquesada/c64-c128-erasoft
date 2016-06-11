@@ -63,7 +63,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 * Download: [puncher.d71](../../raw/master/disks/puncher.d71)
 * Year: 1992
 * Credits: self
-* Instructions ([puncher.pdf](../../raw/master/scans/puncher.pdf)
+* Instructions (original notes in spanish: [puncher.pdf](../../raw/master/scans/puncher.pdf))
     * You don't really play in this game.
     * You need to program your boxer using assembly language.
     * Kind of 'Core Wars' but much much much simpler
@@ -126,7 +126,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 * Year: 1992
 * About: A character editor, the grand-daddy of [VChar64](https://github.com/ricardoquesada/vchar64)
 * Credits: self
-* Instructions ([chardef.pdf](../../raw/master/scans/chardef.pdf)
+* Instructions (original notes in spanish: [chardef.pdf](../../raw/master/scans/chardef.pdf))
     * This is a "Terminate-And-Stay-Resident" program. While resident, you can do whatever you want, like saving the charset to disk using `BSAVE`.
     * F1: Save changes made in the char editor
     * F2: Save Screen RAM to `$3000`
