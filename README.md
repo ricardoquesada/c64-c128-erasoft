@@ -12,6 +12,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 ![](https://lh3.googleusercontent.com/-ZKr-wZtO0uA/V0kZcFQLLzI/AAAAAAABeFo/qwBtW0tEh_oOg4WHfSgCHnrO7iMTZdDvgCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.06.14%2BAM.png)
 
 * Download: [sexgames3.d71](../../raw/master/disks/sexgames3.d71)
+* Platform: C128
 * Year: 1989
 * About: An unfinished single-player game about having sex
 * Credits: self
@@ -27,6 +28,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 ![](https://lh3.googleusercontent.com/-NnTJzJPwPY0/V0karhaFMyI/AAAAAAABeGA/G-u2MmwtWE46u5BKDb80Q3CKzGTyduKEQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.11.54%2BAM.png)
 
 * Download: [race.d71](../../raw/master/disks/race.d71)
+* Platform: C128
 * Year: 1990
 * About: Simple "racing" single-player game
 * Credits: self
@@ -61,6 +63,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 ![](https://lh3.googleusercontent.com/-Xuc6NxhlnL8/V0kdLZs1ufI/AAAAAAABeGc/_QPERAAoBsUr3j_F1fSp_lssdoVi-Jv2QCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.22.46%2BAM.png)
 
 * Download: [puncher.d71](../../raw/master/disks/puncher.d71)
+* Platform: C128
 * Year: 1992
 * Credits: self
 * Instructions (original notes in spanish: [puncher.pdf](../../raw/master/scans/puncher.pdf))
@@ -123,6 +126,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 ![](https://lh3.googleusercontent.com/-R1Xm6o4I5Wc/V0kegsPeFkI/AAAAAAABeG0/OqpzwENEsWEKf-Sr3MoUAx5mKtTLi5WUQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.28.15%2BAM.png)
 
 * Download: [chardef_232.d71](../../raw/master/disks/chardef_232.d71)
+* Platform: C128
 * Year: 1992
 * About: A character editor, the grand-daddy of [VChar64](https://github.com/ricardoquesada/vchar64)
 * Credits: self
@@ -149,6 +153,7 @@ _(The story behind the preservation of these games: https://retro.moe/2016/06/06
 ![](https://lh3.googleusercontent.com/-UKQUiz7j5as/V0kfZ57r3iI/AAAAAAABeHI/yMPZuELXOaIZnAeS40NP0aqmSayQ25KcwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.31.33%2BAM.png)
 
 * Download: [therace.d71](../../raw/master/disks/therace.d71)
+* Platform: C128
 * Year: 1992
 * About: A two-player split-screen horizontal racing game
 * Credits: self
@@ -172,16 +177,18 @@ I also coded some intros. The better looking ones are these two intros:
 ![Intro 10](https://lh3.googleusercontent.com/-fOIeZv2pj1E/V1MP5ZrMuTI/AAAAAAABeRg/LYkVmkKovtAkBOX8mLfMLjN_ADiNcyicgCCo/s400/Screen%2BShot%2B2016-06-04%2Bat%2B2.25.07%2BPM.png)
 
 * Download: [intro 10 NTSC ONLY.d64](../../raw/master/disks/intro_10_NTSC_ONLY.d64)
+* Platform: C64
 
 ## Intro 15
 
 ![Intro 15](https://lh3.googleusercontent.com/-0oABlr-9GGE/V1MVJhnY3XI/AAAAAAABeRo/Cd10LKLaRRgmdqmHyXiOpHI3iWvE0JPoQCCo/s400/Screen%2BShot%2B2016-06-04%2Bat%2B2.51.00%2BPM.png)
 
 * Download: Included in [The Race.71](../../raw/master/disks/therace.d71)
+* Platform: C128
 
 # Trainers
 
-I did some trainers as well, like:
+I did some trainers as well for C64 games, like:
 
 ![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)![Snoopy](https://lh3.googleusercontent.com/--9xseeTKSSM/V1yMXFsB3rI/AAAAAAABeWc/BZE246LKe-EHD8txSydNa-OSAtruqwDWQCCo/s144/Screen%2BShot%2B2016-06-11%2Bat%2B3.08.06%2BPM.png)
 
@@ -193,7 +200,7 @@ I did some trainers as well, like:
 
 # Recracks
 
-I also did some recracks. _Recrack_: that lame activity that consists in replacing an intro done by someone else with another intro done by yourself.
+I also did some recracks for c64 games. _Recrack_: that lame activity that consists in replacing an intro done by someone else with another intro done by yourself.
 
 * [Airborne Ranger.zip](../../raw/master/disks/recrack-airborne ranger ERA.zip)
 * [Alien Syndrome.d64](../../raw/master/disks/recrack-alien syndrome ERA.d64)
@@ -235,9 +242,9 @@ Here is the complete collection of my games and intros from 88' to 92':
 DISCLAIMER: Some games / intros might require special commands in order to run correctly. Don't expect anything special.
 
 
-* My Commodore 64 games: [complete_rq_games_c64.d64](../../raw/master/disks/complete_rq_games_c64.d64)
-* My Commodore 128 games: [complete_rq_games_c128.d71](../../raw/master/disks/complete_rq_games_c128.d71)
-* My Commodore 64 intros:
+* All my Commodore 64 games: [complete_rq_games_c64.d64](../../raw/master/disks/complete_rq_games_c64.d64)
+* All my Commodore 128 games: [complete_rq_games_c128.d71](../../raw/master/disks/complete_rq_games_c128.d71)
+* All my Commodore 64 intros:
 [complete_rq_intros_c64.d64](../../raw/master/disks/complete_rq_intros_c64.d64)
-* My Commodore 128 intros
+* All my Commodore 128 intros
 [complete_rq_intros_c128.d71](../../raw/master/disks/complete_rq_intros_c128.d71)
