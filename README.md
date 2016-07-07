@@ -5,7 +5,8 @@ A selection of my Commodore games, intros, trainers and recracks from '88 to '92
 _(The story behind the preservation of these games: https://retro.moe/2016/06/06/the-quest-for-the-sacred-diskettes/ )_
 
 # Games
-(in chronological order)
+In chronological order:
+
 ## Sex Games III
 
 ![](https://lh3.googleusercontent.com/-5kxKenFTm20/V0kZcaR5XYI/AAAAAAABeFw/Ct1tW4NA43kVjbl2BGFR04qGaaXyw2SOwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.05.37%2BAM.png)
