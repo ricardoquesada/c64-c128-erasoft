@@ -5,20 +5,6 @@ A selection of my Commodore games, intros, trainers and recracks from '88 to '92
 _(The story behind the preservation of these games: https://retro.moe/2016/06/06/the-quest-for-the-sacred-diskettes/ )_
 
 # Games
-## Sex Games III
-
-![](https://lh3.googleusercontent.com/-5kxKenFTm20/V0kZcaR5XYI/AAAAAAABeFw/Ct1tW4NA43kVjbl2BGFR04qGaaXyw2SOwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.05.37%2BAM.png)
-![](https://lh3.googleusercontent.com/-Ot1Giq0qi34/V0kZcIHSIMI/AAAAAAABeFs/jn9cSQYamUQdPhC_Z-fQ_SLlWT_EmyrcwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.05.03%2BAM.png)
-![](https://lh3.googleusercontent.com/-ZKr-wZtO0uA/V0kZcFQLLzI/AAAAAAABeFo/qwBtW0tEh_oOg4WHfSgCHnrO7iMTZdDvgCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.06.14%2BAM.png)
-
-* Download: [sexgames3.d71](../../raw/master/disks/sexgames3.d71)
-* Year: 1989
-* About: An unfinished single-player game about having sex
-* Credits: self
-* Instructions:
-    * Use joystick in port #2 (left-right movements) to play.
-    * Make love with the anchorwoman and cum before she gets tired of you.
-
 
 ## Race
 
