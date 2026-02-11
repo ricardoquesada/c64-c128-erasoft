@@ -13,7 +13,7 @@ In chronological order:
 ![](https://lh3.googleusercontent.com/-zm2sCXWTkhY/V0kar3dAGVI/AAAAAAABeGE/0bTI-pWgHYoZrvGW6F100lM7Z9ofaYv-wCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.10.49%2BAM.png)
 ![](https://lh3.googleusercontent.com/-NnTJzJPwPY0/V0karhaFMyI/AAAAAAABeGA/G-u2MmwtWE46u5BKDb80Q3CKzGTyduKEQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.11.54%2BAM.png)
 
-* Download: [race.d71](../../raw/master/disks/race.d71)
+* Download: [race.d71](disks/race.d71)
 * Platform: C128
 * Year: 1990
 * About: Simple "racing" single-player game
@@ -29,7 +29,7 @@ In chronological order:
 ![](https://lh3.googleusercontent.com/-YF2-LGLll-I/V0kcpHq30qI/AAAAAAABeGU/9lEwqD5kQJIaavHzjgsf75nxFwjQhRYWwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.15.13%2BAM.png)
 ![](https://lh3.googleusercontent.com/-e6VavywLkJU/V0kcpISdRwI/AAAAAAABeGY/xkmZDlpdPkM7p8dcDMp4IONOOoIh8ymHQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.20.06%2BAM.png)
 
-* Download: [tmrt.d71](../../raw/master/disks/tmrt.d71)
+* Download: [tmrt.d71](disks/tmrt.d71)
 * Year: 1991
 * About: A single-player rescue-your-girlfriend game
 * Credits: self, except:
@@ -48,11 +48,11 @@ In chronological order:
 ![](https://lh3.googleusercontent.com/-7OjU8-yQ7o4/V0kdLYY8KJI/AAAAAAABeGk/LUSHD7Efd9of2JufbJUtyzAProGrhItwgCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.22.40%2BAM.png)
 ![](https://lh3.googleusercontent.com/-Xuc6NxhlnL8/V0kdLZs1ufI/AAAAAAABeGc/_QPERAAoBsUr3j_F1fSp_lssdoVi-Jv2QCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.22.46%2BAM.png)
 
-* Download: [puncher.d71](../../raw/master/disks/puncher.d71)
+* Download: [puncher.d71](disks/puncher.d71)
 * Platform: C128
 * Year: 1992
 * Credits: self
-* Instructions (original notes in spanish: [puncher.pdf](../../raw/master/scans/puncher.pdf))
+* Instructions (original notes in spanish: [puncher.pdf](scans/puncher.pdf))
     * You don't really play in this game.
     * You need to program your boxer using assembly language.
     * Kind of 'Core Wars' but much much much simpler
@@ -111,12 +111,12 @@ In chronological order:
 ![](https://lh3.googleusercontent.com/-LiSX52KJ-Ig/V0kegkZtp2I/AAAAAAABeGw/Fn9QU0VXlxwqav8afiqe50eet1FC1wECACCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.27.53%2BAM.png)
 ![](https://lh3.googleusercontent.com/-R1Xm6o4I5Wc/V0kegsPeFkI/AAAAAAABeG0/OqpzwENEsWEKf-Sr3MoUAx5mKtTLi5WUQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.28.15%2BAM.png)
 
-* Download: [chardef_232.d71](../../raw/master/disks/chardef_232.d71)
+* Download: [chardef_232.d71](disks/chardef_232.d71)
 * Platform: C128
 * Year: 1992
 * About: A character editor, the grand-daddy of [VChar64](https://github.com/ricardoquesada/vchar64)
 * Credits: self
-* Instructions (original notes in spanish: [chardef.pdf](../../raw/master/scans/chardef.pdf))
+* Instructions (original notes in spanish: [chardef.pdf](scans/chardef.pdf))
     * This is a "Terminate-And-Stay-Resident" program. While resident, you can do whatever you want, like saving the charset to disk using `BSAVE`.
     * F1: Save changes made in the char editor
     * F2: Save Screen RAM to `$3000`
@@ -138,7 +138,7 @@ In chronological order:
 ![](https://lh3.googleusercontent.com/-2yn1FPlbTIw/V0kfaEcw3rI/AAAAAAABeHA/qVQ1QRF42Fo7rjoQ6h4N0wctzOBO0JTQQCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.31.19%2BAM.png)
 ![](https://lh3.googleusercontent.com/-UKQUiz7j5as/V0kfZ57r3iI/AAAAAAABeHI/yMPZuELXOaIZnAeS40NP0aqmSayQ25KcwCCo/s400/Screen%2BShot%2B2016-05-28%2Bat%2B1.31.33%2BAM.png)
 
-* Download: [therace.d71](../../raw/master/disks/therace.d71)
+* Download: [therace.d71](disks/therace.d71)
 * Platform: C128
 * Year: 1992
 * About: A two-player split-screen horizontal racing game
@@ -162,14 +162,14 @@ I also coded some intros. The better looking ones are these two intros:
 
 ![Intro 10](https://lh3.googleusercontent.com/-fOIeZv2pj1E/V1MP5ZrMuTI/AAAAAAABeRg/LYkVmkKovtAkBOX8mLfMLjN_ADiNcyicgCCo/s400/Screen%2BShot%2B2016-06-04%2Bat%2B2.25.07%2BPM.png)
 
-* Download: [intro 10 NTSC ONLY.d64](../../raw/master/disks/intro_10_NTSC_ONLY.d64)
+* Download: [intro 10 NTSC ONLY.d64](disks/intro_10_NTSC_ONLY.d64)
 * Platform: C64
 
 ## Intro 15
 
 ![Intro 15](https://lh3.googleusercontent.com/-0oABlr-9GGE/V1MVJhnY3XI/AAAAAAABeRo/Cd10LKLaRRgmdqmHyXiOpHI3iWvE0JPoQCCo/s400/Screen%2BShot%2B2016-06-04%2Bat%2B2.51.00%2BPM.png)
 
-* Download: Included in [The Race.71](../../raw/master/disks/therace.d71)
+* Download: Included in [The Race.71](disks/therace.d71)
 * Platform: C128
 
 # Trainers
@@ -178,35 +178,35 @@ I did some trainers as well for C64 games, like:
 
 ![Giana Sisters](https://lh3.googleusercontent.com/-sAGP9B42SDw/V1TMAMnhnvI/AAAAAAABeVE/FIKqjsO5PE4kcV3LzSnxQXLet9stoHG9wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.50.16%2BPM.png)![Galaxy](https://lh3.googleusercontent.com/-l4EZga5QkcI/V1TL_675mdI/AAAAAAABeU8/d1soq5XLQX4ujUIuzUfYq8rSStC0YqWIwCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B10.00.40%2BPM.png)![Hard Hat Mack](https://lh3.googleusercontent.com/-cQgExE6Ar2I/V1TMACZlB7I/AAAAAAABeVA/hKAdIOFUydAU0OgNP3EEU2j-a0St9ih0wCCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.13%2BPM.png)![Hunchback](https://lh3.googleusercontent.com/-tmW3PtmiB9Q/V1TMAbuCXDI/AAAAAAABeVM/lnGkoCUIynICQLq0gdOBBlMNTHGWiyZ5ACCo/s144/Screen%2BShot%2B2016-06-05%2Bat%2B9.51.33%2BPM.png)![Snoopy](https://lh3.googleusercontent.com/--9xseeTKSSM/V1yMXFsB3rI/AAAAAAABeWc/BZE246LKe-EHD8txSydNa-OSAtruqwDWQCCo/s144/Screen%2BShot%2B2016-06-11%2Bat%2B3.08.06%2BPM.png)
 
-* [Giana Sisters+.d64](../../raw/master/disks/trainer-gianasisters+ ERA.d64)
-* [Galaxy+.d64](../../raw/master/disks/trainer-galaxy+ ERA.d64)
-* [Hard Hat Mack+.d64](../../raw/master/disks/trainer-hardhatmack+ ERA.d64)
-* [Hunchback+.d64](../../raw/master/disks/trainer-hunchback+ ERA.d64)
-* [Snoopy+.d64](../../raw/master/disks/trainer-snoopy+ ERA.d64)
+* [Giana Sisters+.d64](disks/trainer-gianasisters+%20ERA.d64)
+* [Galaxy+.d64](disks/trainer-galaxy+%20ERA.d64)
+* [Hard Hat Mack+.d64](disks/trainer-hardhatmack+%20ERA.d64)
+* [Hunchback+.d64](disks/trainer-hunchback+%20ERA.d64)
+* [Snoopy+.d64](disks/trainer-snoopy+%20ERA.d64)
 
 # Recracks
 
 I also did some recracks for c64 games. _Recrack_: that lame activity that consists in replacing an intro done by someone else with another intro done by yourself.
 
-* [Airborne Ranger.zip](../../raw/master/disks/recrack-airborne ranger ERA.zip)
-* [Alien Syndrome.d64](../../raw/master/disks/recrack-alien syndrome ERA.d64)
-* [Boulder Dash 16.d64](../../raw/master/disks/recrack-boulderdash16 ERA.d64)
-* [Celebration Kit.d64](../../raw/master/disks/recrack-celebration kit ERA.d64)
-* [Double Dragon II.d64](../../raw/master/disks/recrack-double dragon II ERA.d64)
-* [Elite.d64](../../raw/master/disks/recrack-elite ERA.d64)
-* [Fourth and Inches.d64](../../raw/master/disks/recrack-fourth and inches ERA.d64)
-* [Jordan vs. Bird.zip](../../raw/master/disks/recrack-jordan vs bird ERA.zip)
-* [Maniac Mansion.zip](../../raw/master/disks/recrack-maniac mansion ERA.zip)
-* [MULE.d64](../../raw/master/disks/recrack-mule ERA.d64)
-* [Ninja.d64](../../raw/master/disks/recrack-ninja ERA.d64)
-* [Pro Tennis Tour.d64](../../raw/master/disks/recrack-pro tennis tour ERA.d64)
-* [Sim City.d64](../../raw/master/disks/recrack-simcity ERA.d64)
-* [Soccer Simulator.d64](../../raw/master/disks/recrack-soccer simulator ERA.d64)
-* [Stellar 7.d64](../../raw/master/disks/recrack-stellar 7 ERA.d64)
-* [Turbo Outrun.d64](../../raw/master/disks/recrack-turbo outrun ERA.d64)
-* [Tusker.d64](../../raw/master/disks/recrack-tusker ERA.d64)
-* [TV Sports Football.zip](../../raw/master/disks/recrack-tv sports football ERA.zip)
-* [Wings of Fury.d64](../../raw/master/disks/recrack-wings of fury+4 ERA.d64)
+* [Airborne Ranger.zip](disks/recrack-airborne%20ranger%20ERA.zip)
+* [Alien Syndrome.d64](disks/recrack-alien%20syndrome%20ERA.d64)
+* [Boulder Dash 16.d64](disks/recrack-boulderdash16%20ERA.d64)
+* [Celebration Kit.d64](disks/recrack-celebration%20kit%20ERA.d64)
+* [Double Dragon II.d64](disks/recrack-double%20dragon%20II%20ERA.d64)
+* [Elite.d64](disks/recrack-elite%20ERA.d64)
+* [Fourth and Inches.d64](disks/recrack-fourth%20and%20inches%20ERA.d64)
+* [Jordan vs. Bird.zip](disks/recrack-jordan%20vs%20bird%20ERA.zip)
+* [Maniac Mansion.zip](disks/recrack-maniac%20mansion%20ERA.zip)
+* [MULE.d64](disks/recrack-mule%20ERA.d64)
+* [Ninja.d64](disks/recrack-ninja%20ERA.d64)
+* [Pro Tennis Tour.d64](disks/recrack-pro%20tennis%20tour%20ERA.d64)
+* [Sim City.d64](disks/recrack-simcity%20ERA.d64)
+* [Soccer Simulator.d64](disks/recrack-soccer%20simulator%20ERA.d64)
+* [Stellar 7.d64](disks/recrack-stellar%207%20ERA.d64)
+* [Turbo Outrun.d64](disks/recrack-turbo%20outrun%20ERA.d64)
+* [Tusker.d64](disks/recrack-tusker%20ERA.d64)
+* [TV Sports Football.zip](disks/recrack-tv%20sports%20football%20ERA.zip)
+* [Wings of Fury.d64](disks/recrack-wings%20of%20fury+4%20ERA.d64)
 
 
 # Trivia
@@ -228,9 +228,9 @@ Here is the complete collection of my games and intros from 88' to 92':
 DISCLAIMER: Some games / intros might require special commands in order to run correctly. Don't expect anything special.
 
 
-* All my Commodore 64 games: [complete_rq_games_c64.d64](../../raw/master/disks/complete_rq_games_c64.d64)
-* All my Commodore 128 games: [complete_rq_games_c128.d71](../../raw/master/disks/complete_rq_games_c128.d71)
+* All my Commodore 64 games: [complete_rq_games_c64.d64](disks/complete_rq_games_c64.d64)
+* All my Commodore 128 games: [complete_rq_games_c128.d71](disks/complete_rq_games_c128.d71)
 * All my Commodore 64 intros:
-[complete_rq_intros_c64.d64](../../raw/master/disks/complete_rq_intros_c64.d64)
+[complete_rq_intros_c64.d64](disks/complete_rq_intros_c64.d64)
 * All my Commodore 128 intros
-[complete_rq_intros_c128.d71](../../raw/master/disks/complete_rq_intros_c128.d71)
+[complete_rq_intros_c128.d71](disks/complete_rq_intros_c128.d71)
